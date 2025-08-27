@@ -1,0 +1,23 @@
+{
+  "name": "php_lesson",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000g\u0000g\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pushkin-hub/php_lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pushkin-hub/php_lesson/issues"
+  },
+  "homepage": "https://github.com/Pushkin-hub/php_lesson#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
